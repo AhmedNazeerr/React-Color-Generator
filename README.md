@@ -3,10 +3,11 @@
 ## inorder to run it, first clone , then enter command npm install 
 
 #### Libray Used -> values.js
+
 (https://github.com/noeldelgado/values.js)
 
 
-### Hosted on 
+### Hosted on  https://hexcolorgeneratorreact.netlify.app
 
 ####Screen Shot
 
