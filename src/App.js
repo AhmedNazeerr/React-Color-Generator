@@ -21,7 +21,7 @@ function App() {
   return (
     <>
       <section className="container">
-        <h3>Color Generator</h3>
+        <h3>Color Generator by AhmedNazeer </h3>
         <form onSubmit={handleSubmit}>
             <input type="text" value={color} onChange={(e)=>setcolor(e.target.value)} placeholder='#f15025' className={`${error?'error' : null}`}/>
             <button className="btn" type='submit'>Get Colors</button>
