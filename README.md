@@ -3,7 +3,7 @@
 ## inorder to run it, First clone,run the command npm install 
 
 ## Libray Used -> values.js
-  If you want to read more about the library you can visit the link below 
+  If you want to read more about the library you can visit this link  
 (https://github.com/noeldelgado/values.js)
 
 
